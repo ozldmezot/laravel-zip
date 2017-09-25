@@ -7,7 +7,7 @@ This library was written to simplify and automate Zip files management using [PH
 ### Installation
 Require this package in your composer.json and update composer. This will download the package.
 
-    composer require zanysoft/laravel-zip
+    composer require ozldmezot/laravel-zip
 
 After updating composer, add the ServiceProvider to the providers array in config/app.php
 
